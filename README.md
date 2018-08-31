@@ -1,6 +1,6 @@
 # ojo
 
-A new Flutter project.
+proyecto para testear nuevas funcionalidades de flutter
 
 ## Getting Started
 
